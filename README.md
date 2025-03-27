@@ -34,6 +34,7 @@ model_finder_精简版/
 ## 联系方式
 
 - 邮箱：littlegrass@outlook.com
+- WeChat：wangdefa4567
 - 问题反馈：GitHub Issues
 
 ## 许可证
