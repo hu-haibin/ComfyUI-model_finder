@@ -1,0 +1,49 @@
+===== 模型查找器 - 便携版 =====
+
+一款轻量级工具，用于检测缺失模型并生成下载链接。
+
+联系方式：
+微信： wangdefa4567
+邮箱：littlegrass@outlook.com
+
+=== 安装说明 ===
+
+1. 将所有文件解压到电脑的一个文件夹中
+2. 运行 'install_chrome.bat'（需要管理员权限）
+   - 此脚本会检查是否已安装Chrome浏览器
+   - 如果未找到Chrome，将自动下载并安装
+3. 运行 'ModelFinder.exe' 启动应用程序
+
+=== 应用使用方法 ===
+
+1. 选择工作流JSON文件进行分析
+2. 工具将检测缺失的模型文件
+3. 使用生成的CSV文件搜索下载链接
+4. 查看HTML结果获取下载链接
+
+=== 故障排除 ===
+
+如果ModelFinder.exe无法启动：
+- 确保已通过运行'install_chrome.bat'安装Chrome
+- 尝试以管理员身份运行应用程序
+
+如果搜索功能不起作用：
+- 检查您的网络连接
+- 验证Chrome是否正确安装
+- 如问题持续存在，请联系技术支持
+
+=== 包内容 ===
+
+- ModelFinder.exe - 主应用程序
+- install_chrome.bat - Chrome安装脚本
+- README.txt - 英文帮助文件
+- README_CN.txt - 中文帮助文件
+
+=== 系统要求 ===
+
+- Windows 7/8/10/11
+- 4GB内存（推荐8GB）
+- Google Chrome浏览器
+- 搜索功能需要联网
+
+如需技术支持或反馈，请联系：微信 wangdefa4567 

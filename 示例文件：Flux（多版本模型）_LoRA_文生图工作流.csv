@@ -1,0 +1,10 @@
+﻿序号,节点ID,节点类型,文件名,下载链接,镜像链接,搜索状态
+1,44,UNETLoader,flux1-dev.safetensors,https://huggingface.co/black-forest-labs/FLUX.1-dev,https://hf-mirror.com/black-forest-labs/FLUX.1-dev,已处理
+2,45,DualCLIPLoader,t5xxl_fp16.safetensors,https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors,https://hf-mirror.com/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors,已处理
+3,45,DualCLIPLoader,clip_l.safetensors,https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors,https://hf-mirror.com/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors,已处理
+4,30,CheckpointLoaderSimple,flux1-dev-fp8-with_clip_vae.safetensors,https://huggingface.co/Kijai/flux-fp8/resolve/main/flux1-dev-fp8.safetensors,https://hf-mirror.com/Kijai/flux-fp8/resolve/main/flux1-dev-fp8.safetensors,已处理
+5,72,DualCLIPLoaderGGUF,clip_l.safetensors,,,
+6,41,DualCLIPLoader,t5xxl_fp8_e4m3fn.safetensors,https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp8_e4m3fn.safetensors,https://hf-mirror.com/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp8_e4m3fn.safetensors,已处理
+7,41,DualCLIPLoader,clip_l.safetensors,,,
+8,40,UNETLoader,flux1-dev-fp8.safetensors,https://huggingface.co/Kijai/flux-fp8/resolve/main/flux1-dev-fp8.safetensors,https://hf-mirror.com/Kijai/flux-fp8/resolve/main/flux1-dev-fp8.safetensors,已处理
+9,74,LoraLoaderModelOnly,FLUX1-超写实逼真黑悟空aiyouxiketang.safetensors,,,未找到
