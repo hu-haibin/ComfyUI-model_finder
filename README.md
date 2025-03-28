@@ -1,12 +1,25 @@
 # 模型查找器（ModelFinder）
 
-一个轻量级工具，用于检测缺失模型并生成下载链接。专为ComfyUI等AI绘图工作流设计。
+一个轻量级工具，用于检测缺失模型并生成huggingface和hf下载链接。
 
-需要安装chrome
+=== 安装说明 ===
 
-需要安装chrome
+1. 将所有文件解压到电脑的一个文件夹中
+2. 运行 'install_chrome.bat'（需要管理员权限）
+   - 此脚本会检查是否已安装Chrome浏览器
+   - 如果未找到Chrome，将自动下载并安装
+     
+=== 故障排除 ===
 
-需要安装chrome
+如果ModelFinder.exe无法启动：
+- 确保已通过运行'install_chrome.bat'安装Chrome
+- 尝试以管理员身份运行应用程序
+
+如果搜索功能不起作用：
+- 检查您的网络连接
+- 验证Chrome是否正确安装
+- 如问题持续存在，请联系技术支持
+- 
 ## 功能特点
 
 - 工作流JSON文件分析，精确定位缺失模型
@@ -16,23 +29,10 @@
 
 ## 使用方法
 
-1. 选择工作流文件并分析
-2. 搜索下载链接
-3. 查看HTML结果
-
-## 环境要求
-
-- Python 3.9+
-- 依赖: `pip install pandas DrissionPage`
-
-## 项目结构
-
-```
-model_finder_精简版/
-├── model_finder_精简版.py   # 主程序文件
-├── requirements.txt        # 项目依赖
-└── README.md               # 项目说明
-```
+1. 选择工作流JSON文件进行分析
+2. 工具将检测缺失的模型文件
+3. 使用生成的CSV文件搜索下载链接
+4. 查看HTML结果获取下载链接
 
 ## 联系方式
 
