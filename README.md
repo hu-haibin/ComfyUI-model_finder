@@ -1,8 +1,11 @@
 # 模型查找器（ModelFinder）
 
 一个轻量级工具，用于检测缺失模型并生成下载链接。专为ComfyUI等AI绘图工作流设计。
+
 需要安装chrome
+
 需要安装chrome
+
 需要安装chrome
 ## 功能特点
 
